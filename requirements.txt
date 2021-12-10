@@ -1,0 +1,10 @@
+pandas
+pymongo
+splinter
+beautifulsoup
+numpy
+time
+flask
+
+selenium==3.5.0
+splinter==0.7.6
